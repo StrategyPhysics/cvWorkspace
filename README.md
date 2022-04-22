@@ -1,2 +1,2 @@
-# cvWprkspace
+# cvWorkspace
 All about computer vision
